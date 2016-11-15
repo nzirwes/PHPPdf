@@ -12,3 +12,4 @@ vendor
 Vagrantfile
 .vagrant
 !lib/vendor
+
